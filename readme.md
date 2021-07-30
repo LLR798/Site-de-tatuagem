@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="FlorestaDeCactus" src=".github/imagnes/preview.png" width="100%">
+  <img alt="FlorestaDeCactus" src="https://github.com/LLR798/Site-de-tatuagem/blob/master/imagens/preview.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
