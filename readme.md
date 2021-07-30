@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="FlorestaDeCactus" src=".github/preview.png" width="100%">
+  <img alt="FlorestaDeCactus" src=".github/imagnes/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
